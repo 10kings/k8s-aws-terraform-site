@@ -273,7 +273,7 @@ nginx-ingress-ingress-nginx-controller-admission   ClusterIP      10.98.12.216  
   kubectl apply -f ingress-resource.tls
   ```
 
-You site is now secured 
+Your site is now secured 
 
 ---
 
